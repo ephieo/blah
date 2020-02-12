@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
+   <link href="https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap" rel="stylesheet">
   <head>
-     <link href="https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap" rel="stylesheet">
     <style>
     .body {
   background-color: #82a43a; 
@@ -10,7 +10,7 @@
       font-style:italic;
       }
       h2 {
-      font-family:monospace,cursive;
+     font-family:'Press Start 2P', cursive;
       }
       body {
      font-family:'Press Start 2P', cursive;
@@ -21,6 +21,9 @@
       margin-top:10px;
       margin-left:2px;
       margin-right:2px;
+      }
+        img {
+      margin-top:10px;
       }
      <!--smaller-image { 
       width:100px;
@@ -34,7 +37,6 @@
     <h2 > Hotrod Ephie </h2>
     <p id="verfied"> Verified account</p>
     <p> photo's so beutiful you'll think you're dreaming</p>
-    lolastanding.JPG
     <img src="lolastanding.JPG" height="400px">
     <img src="chandelier.JPG" height="400px">   
     <img src="handflower.JPG" height="400px">  
