@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
   <head>
      <link href="https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap" rel="stylesheet">
@@ -26,7 +26,7 @@
     <br>
     <img src="reece2.JPG">
     <h2> Hotrod Ephie </h2>
-    <p id=" verfied"> Verified account</p>
+    <p id="verfied"> Verified account</p>
     <p> photo's so beutiful you'll think you're dreaming</p>
     lolastanding.JPG
     <img src="lolastanding.JPG>
