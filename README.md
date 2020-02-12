@@ -25,6 +25,12 @@
         img {
       margin-top:10px;
       }
+         img {
+      margin-left:2px;
+       }
+         img {
+      margin-right:2px;
+      }
      <!--smaller-image { 
       width:100px;
       } -->
