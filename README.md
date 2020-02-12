@@ -3,16 +3,10 @@
    <link href="https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap" rel="stylesheet">
   <head>
     <style>
-       .example-text-align
-       .container 
-        {
-       text-align:centre;
+       body {
+       color:grey;
+  background-color:black;
        }
-       .box {
-       display:inline-block;
-    .body {
-  background-color: #82a43a; 
-}
       #verfied {
       font-weight:strong;
       }
