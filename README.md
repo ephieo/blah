@@ -12,11 +12,11 @@
       h2 {
       font-family:monospace,cursive;
       }
-      .body {
+      body {
      font-family:'Press Start 2P', cursive;
       text-align:centre;
       }
-     .img {
+      img {
       border-radius:50%;
       margin-top:10px;
       margin-left:2px;
