@@ -3,14 +3,14 @@
   <head>
      <link href="https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap" rel="stylesheet">
     <style>
-      html {
+    .body {
   background-color: #82a43a; 
 }
       #verfied {
       font-style:italic;
       }
-      .h2 {
-      font-family:'Press Start 2P', cursive;
+      h2 {
+      font-family:monospace,cursive;
       }
       .body {
      font-family:'Press Start 2P', cursive;
@@ -31,7 +31,7 @@
     <img src="https://mimo.app?r?insta.svg">
     <br>
     <img src="reece2.JPG" height="400px">
-    <h2> Hotrod Ephie </h2>
+    <h2 > Hotrod Ephie </h2>
     <p id="verfied"> Verified account</p>
     <p> photo's so beutiful you'll think you're dreaming</p>
     lolastanding.JPG
