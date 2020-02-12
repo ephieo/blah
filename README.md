@@ -40,7 +40,7 @@
     </style>
   </head>
   <body class="font-family">
-    <img src="reece2.JPG" height="400px">
+    <img src="reece2.JPG" height="400px" text-align="centre">
     <h2 > Hotrod Ephie </h2>
     <p id="verfied"> Verified account</p>
     <p> Creating for Creative Sakes</p>
