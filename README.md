@@ -12,7 +12,7 @@
       h2 {
      font-family:'Press Start 2P', cursive;
       }
-      body {
+      body{
       text-align:centre;
       }
        body {
