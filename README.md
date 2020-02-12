@@ -1,5 +1,5 @@
-<!--<!DOCTYPE html>
-<html> -->
+<!DOCTYPE html>
+<html> 
    <link href="https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap" rel="stylesheet">
   <head>
     <style>
