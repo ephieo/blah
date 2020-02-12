@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html> 
    <link href="https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap" rel="stylesheet">
   <head>
     <style>
@@ -13,17 +13,16 @@
      font-family:'Press Start 2P', cursive;
       }
       body {
-     font-family:'Press Start 2P', cursive;
       text-align:centre;
       }
+       body {
+     font-family:'Press Start 2P', cursive;
+      }
       img {
-      border-radius:50%;
-      margin-top:10px;
-      margin-left:2px;
-      margin-right:2px;
+      border-radius:10px;
       }
         img {
-      margin-top:10px;
+      margin-top:7px;
       }
          img {
       margin-left:2px;
@@ -37,8 +36,6 @@
     </style>
   </head>
   <body class="font-family">
-    <img src="https://mimo.app?r?insta.svg">
-    <br>
     <img src="reece2.JPG" height="400px">
     <h2 > Hotrod Ephie </h2>
     <p id="verfied"> Verified account</p>
