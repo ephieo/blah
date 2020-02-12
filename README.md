@@ -35,7 +35,7 @@
     <p id="verfied"> Verified account</p>
     <p> photo's so beutiful you'll think you're dreaming</p>
     lolastanding.JPG
-    <img src="lolastanding.JPG height="400px">
+    <img src="lolastanding.JPG" height="400px">
     <img src="chandelier.JPG" height="400px">   
     <img src="handflower.JPG" height="400px">  
     <br>
