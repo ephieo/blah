@@ -7,10 +7,10 @@
       font-style:italic;
       }
       .h2 {
-      font-family:press-start-2p,monospace;
+      font-family:pressstart2p,monospace;
       }
       .body {
-      font-family:press-start-2p,monospace;
+      font-family:pressstart2p,monospace;
       text-align:centre;
       }
       .img {
@@ -24,16 +24,17 @@
   <body>
     <img src="https://mimo.app?r?insta.svg">
     <br>
-    <img src="Screen Shot 2019-05-07 at 20.34.08">
+    <img src="reece2.JPG">
     <h2> Hotrod Ephie </h2>
     <p id=" verfied"> Verified account</p>
     <p> photo's so beutiful you'll think you're dreaming</p>
-    <img src="_MG_9565-Edit.JPG">
-    <img src="_MG_2278-Edit.JPG">   
-    <img src="_MG_1438-Edit.JPG">  
+    lolastanding.JPG
+    <img src="lolastanding.JPG>
+    <img src="chandelier.JPG">   
+    <img src="handflower.JPG">  
     <br>
-    <img src="_MG_1461-Edit.JPG">
-    <img src="_MG_0968.JPG">
-    <img src="_MG_2171-Edit.JPG">
+    <img src="reece.JPG">
+    <img src="danieye.JPG">
+    <img src="chamivintage.JPG">
   </body>
   </html>
