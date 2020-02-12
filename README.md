@@ -3,14 +3,17 @@
   <head>
      <link href="https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap" rel="stylesheet">
     <style>
+      html {
+  background-color: #82a43a; 
+}
       #verfied {
       font-style:italic;
       }
       .h2 {
-      font-family:'press start 2p',monospace;
+      font-family:'Press Start 2P', cursive;
       }
       .body {
-      font-family:'press start 2p',monospace;
+     font-family:'Press Start 2P', cursive;
       text-align:centre;
       }
      .img {
@@ -27,17 +30,17 @@
   <body class="font-family">
     <img src="https://mimo.app?r?insta.svg">
     <br>
-    <img src="reece2.JPG" height="200px">
+    <img src="reece2.JPG" height="400px">
     <h2> Hotrod Ephie </h2>
     <p id="verfied"> Verified account</p>
     <p> photo's so beutiful you'll think you're dreaming</p>
     lolastanding.JPG
-    <img src="lolastanding.JPG height="200px">
-    <img src="chandelier.JPG" height="200px">   
-    <img src="handflower.JPG" height="200px">  
+    <img src="lolastanding.JPG height="400px">
+    <img src="chandelier.JPG" height="400px">   
+    <img src="handflower.JPG" height="400px">  
     <br>
-    <img src="reece.JPG" height="200px">
-    <img src="danieye.JPG" height="200px">
-    <img src="chamivintage.JPG" height="200px">
+    <img src="reece.JPG" height="400px">
+    <img src="danieye.JPG" height="400px">
+    <img src="chamivintage.JPG" height="400px">
   </body>
   </html>
