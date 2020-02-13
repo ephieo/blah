@@ -22,17 +22,17 @@
        .body {
      font-family:'Press Start 2P', cursive;
       }
-      img {
+      .img {
       border-radius:10px;
       }
         .img {
       margin-top:20px;
       }
          .img {
-      margin-left:20px;
+      margin-left:30px;
        }
          .img {
-      margin-right:20px;
+      margin-right:30px;
       }
      <!--smaller-image { 
       width:100px;
