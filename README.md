@@ -29,10 +29,10 @@
       margin-top:20px;
       }
       img {
-      margin-left:20px;
+      margin-left:10px;
        }
       img {
-      margin-right:20px;
+      margin-right:10px;
       }
      <!--smaller-image { 
       width:100px;
