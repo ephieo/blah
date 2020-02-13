@@ -10,28 +10,28 @@
       #verfied {
       font-weight:strong;
       }
-      .h2 {
+      h2 {
      font-family:'Press Start 2P', cursive;
       }
-      .body {
+      body {
       text-align:center;
       }
-       .p {
+       p {
         font-family:'Press Start 2P', cursive;
        }
-       .body {
+       body {
      font-family:'Press Start 2P', cursive;
       }
-      .img {
+      img {
       border-radius:10px;
       }
-        .img {
+        img {
       margin-top:30px;
       }
-         .img {
+         img {
       margin-left:30px;
        }
-         .img {
+         img {
       margin-right:30px;
       }
      <!--smaller-image { 
