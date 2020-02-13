@@ -19,20 +19,20 @@
        p {
         font-family:'Press Start 2P', cursive;
        }
-       body {
+       .body {
      font-family:'Press Start 2P', cursive;
       }
       img {
       border-radius:10px;
       }
         img {
-      margin-top:7px;
+      margin-top:20px;
       }
          img {
-      margin-left:2px;
+      margin-left:30px;
        }
          img {
-      margin-right:2px;
+      margin-right:30px;
       }
      <!--smaller-image { 
       width:100px;
