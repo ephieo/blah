@@ -18,7 +18,7 @@
       }
       p {
         font-family:'Press Start 2P', cursive;
-       text-align:justify;
+       text-align:center;
        }
       body {
      font-family:'Press Start 2P', cursive;
