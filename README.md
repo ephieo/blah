@@ -40,13 +40,13 @@
     </style>
   </head>
   <body class="font-family">
-     <br>
-         <a href="https://ephieo.myportfolio.com/"> KOINONIA </a>
-     <br>
     <img src="reece2.JPG" height="400px" text-align="centre">
     <h2 > Hotrod Ephie </h2>
     <p id="verfied"> Verified account</p>
     <p> Creating for Creative Sakes</p>
+      <br>
+         <a href="https://ephieo.myportfolio.com/"> KOINONIA </a>
+     <br>
     <img src="lolastanding.JPG" height="400px">
     <img src="chandelier.JPG" height="400px">   
     <img src="handflower.JPG" height="400px">  
