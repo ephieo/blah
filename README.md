@@ -18,6 +18,7 @@
       }
       p {
         font-family:'Press Start 2P', cursive;
+       text-align:justify;
        }
       body {
      font-family:'Press Start 2P', cursive;
@@ -34,6 +35,7 @@
       img {
       margin-right:10px;
       }
+       
      <!--smaller-image { 
       width:100px;
       } -->
