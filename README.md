@@ -2,7 +2,6 @@
 <html> 
    <link href="https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap" rel="stylesheet">
   <head>
-     <a href="https://ephieo.myportfolio.com/"> KOINONIA </a>
     <style>
        body {
        color:grey;
@@ -41,6 +40,7 @@
     </style>
   </head>
   <body class="font-family">
+         <a href="https://ephieo.myportfolio.com/"> KOINONIA </a>
     <img src="reece2.JPG" height="400px" text-align="centre">
     <h2 > Hotrod Ephie </h2>
     <p id="verfied"> Verified account</p>
