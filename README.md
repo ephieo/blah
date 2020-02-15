@@ -2,7 +2,7 @@
 <html> 
    <link href="https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap" rel="stylesheet">
   <head>
-     <a href "https://ephieo.myportfolio.com/"> KOINONIA </a>
+     <a href="https://ephieo.myportfolio.com/"> KOINONIA </a>
     <style>
        body {
        color:grey;
